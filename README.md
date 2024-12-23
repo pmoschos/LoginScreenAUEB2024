@@ -4,6 +4,14 @@ Welcome to **LoginCF6**, an Android application showcasing a sleek and responsiv
 
 ---
 
+## Screenshots 📸
+
+### Login Screen
+
+![image](https://github.com/user-attachments/assets/58546128-301b-4c41-a63a-7ceb34075c76)
+
+---
+
 ## Features 🌟
 
 - **User Authentication**: Beautiful and intuitive login interface with email and password input fields.
@@ -51,13 +59,6 @@ Follow these steps to set up and run the project locally:
 
 ---
 
-## Screenshots 📸
-
-### Login Screen
-
-![image](https://github.com/user-attachments/assets/58546128-301b-4c41-a63a-7ceb34075c76)
-
----
 
 ## Project Structure 🗂
 
