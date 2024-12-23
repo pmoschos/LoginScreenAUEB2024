@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aueb_logo_description">Athens University of Economics and Business Logo</string>
+    <string name="login_here">Login here</string>
+    <string name="welcome_message">Welcome back you\'ve\nbeen missed!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password_question">Forgot your password?</string>
+    <string name="create_account_message">Create new account</string>
+    <string name="or_continue_with">Or continue with</string>
+    <string name="google_login_button">Google login button</string>
+    <string name="facebook_login_button">Facebook login button</string>
+    <string name="x_login_button">X login button</string>
+</resources>
