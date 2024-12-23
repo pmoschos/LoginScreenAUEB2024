@@ -106,24 +106,25 @@ The project is organized for clarity and maintainability:
 
 ---
 
+## 📢 Stay Updated
 
-## License 📝
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-This project is licensed under the [MIT License](https://mit-license.org/). Feel free to use and modify the project as per your needs.
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
----
 
 ## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
 
-**Panagiotis Moschos**  
-📧 [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/panagiotis-moschos)  
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
-
-<h1 align="center">Happy Coding 👨‍💻</h1>
+<h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">
-  Made with ❤️ by Panagiotis Moschos
+  Made with ❤️ by 
+  <a href="https://www.linkedin.com/in/panagiotis-moschos" target="_blank">
+  Panagiotis Moschos</a> (https://github.com/pmoschos)
 </p>
 
