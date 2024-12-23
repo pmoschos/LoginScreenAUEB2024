@@ -8,7 +8,7 @@ Welcome to **LoginCF6**, an Android application showcasing a sleek and responsiv
 
 ### Login Screen
 
-![image](https://github.com/user-attachments/assets/58546128-301b-4c41-a63a-7ceb34075c76)
+![image](https://github.com/user-attachments/assets/899fca8e-0f3a-4b32-92e1-33d3c1fc4233)
 
 ---
 
